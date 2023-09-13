@@ -1,0 +1,1626 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2972px" height="1902px" viewBox="-0.5 -0.5 2972 1902" content="&lt;mxfile&gt;&lt;diagram id=&quot;L9yl9VtbXCHkIZ3rr2Al&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+    <defs/>
+    <g>
+        <rect x="490" y="1250" width="740" height="310" rx="46.5" ry="46.5" fill="#e5ccff" stroke="#000000" stroke-width="3" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 738px; height: 1px; padding-top: 1455px; margin-left: 492px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); border-color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                <span style="color: rgb(0, 0, 0); background-color: initial;">
+                                    <span style="white-space: pre;">
+                                    </span>
+                                    <b>
+                                        import {applyMiddleware, createStore} from "redux"
+                                    </b>
+                                </span>
+                                <b>
+                                    <br/>
+                                </b>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <b>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        import thunk from "react-thunk"
+                                    </b>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 0, 0);">
+                                    <b>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        import reducers from "./reducers"
+                                    </b>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <br/>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="white-space: pre;">
+                                    </span>
+                                    <b>
+                                        export const store= createStore{ reducers, {}, applyMiddleware(thunk) }
+                                    </b>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <b>
+                                        <br/>
+                                    </b>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="492" y="1461" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="20px">
+                    import {applyMiddleware, createStore} from "redux"...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" dir="ltr" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 1300px; margin-left: 600px;">
+                        <div data-drawio-colors="color: #000000; background-color: #B266FF; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 27px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; background-color: rgb(178, 102, 255); border: 1px solid rgb(0, 0, 0); white-space: nowrap;">
+                                store.js
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="600" y="1308" fill="#000000" font-family="Helvetica" font-size="27px" font-weight="bold">
+                    store.js
+                </text>
+            </switch>
+        </g>
+        <rect x="550" y="820" width="520" height="410" rx="61.5" ry="61.5" fill="#e6ffcc" stroke="#000000" stroke-width="3" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 518px; height: 1px; padding-top: 1076px; margin-left: 552px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); border-color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    <br/>
+                                </b>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <b>
+                                        <span style="">
+                                        </span>
+                                        <br/>
+                                    </b>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            const reducer = ( state=0, action ) =&gt; {
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                            </span>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                                <span style="white-space: pre;">
+                                                </span>
+                                            </span>
+                                            if ( action.type ===' deposit' ){
+                                            <br/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <b>
+                                        <span style="border-color: rgb(0, 0, 0);">
+                                            <span style="">
+                                            </span>
+                                            <span style="">
+                                            </span>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            return state+action.payload
+                                            <span style="white-space: pre;">
+                                            </span>
+                                        </span>
+                                        <span style="background-color: initial;">
+                                            }
+                                        </span>
+                                    </b>
+                                </p>
+                                <p style="color: rgb(0, 0, 0);">
+                                    <b>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        if ( action.type ===' withdraw' ){
+                                        <br/>
+                                    </b>
+                                </p>
+                                <p style="color: rgb(0, 0, 0);">
+                                    <b>
+                                        <span style="">
+                                        </span>
+                                        <span style="">
+                                        </span>
+                                        <span style="">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        return state-action.payload
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="background-color: initial;">
+                                            }
+                                        </span>
+                                    </b>
+                                </p>
+                                <p style="color: rgb(0, 0, 0);">
+                                    <b>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        else return state
+                                    </b>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 27px;">
+                                    <span style="border-color: rgb(0, 0, 0); font-size: 20px;">
+                                        <b>
+                                            <span style="border-color: rgb(0, 0, 0);"></span>
+                                            <span style="border-color: rgb(0, 0, 0);"></span>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            }
+                                            <br style="border-color: rgb(0, 0, 0);"/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 27px;">
+                                    <span style="border-color: rgb(0, 0, 0); font-size: 20px;">
+                                        <b>
+                                            <br style="border-color: rgb(0, 0, 0);"/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="552" y="1082" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="20px">
+                    ...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" dir="ltr" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 860px; margin-left: 585px;">
+                        <div data-drawio-colors="color: #000000; background-color: #B3FF66; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 27px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; background-color: rgb(179, 255, 102); border: 1px solid rgb(0, 0, 0); white-space: nowrap;">
+                                state/reducers/amountReducer.js
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="585" y="868" fill="#000000" font-family="Helvetica" font-size="27px" font-weight="bold">
+                    state/reducers/amountReducer.js
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="821" cy="1257" rx="25" ry="23" fill="#ffe6cc" stroke="#ff6666" stroke-width="2" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 48px; height: 1px; padding-top: 1257px; margin-left: 797px;">
+                        <div data-drawio-colors="color: #000000; background-color: #FFB366; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 33px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 179, 102); border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                4
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="821" y="1267" fill="#000000" font-family="Helvetica" font-size="33px" text-anchor="middle">
+                    4
+                </text>
+            </switch>
+        </g>
+        <rect x="50" y="820" width="430" height="810" rx="64.5" ry="64.5" fill="#ffffcc" stroke="#000000" stroke-width="3" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 428px; height: 1px; padding-top: 1225px; margin-left: 51px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); border-color: #FFFF99; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; border: 1px solid rgb(255, 255, 153); white-space: normal; overflow-wrap: normal;">
+                                <br/>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        export const
+                                        <b style="">
+                                            <u style="">
+                                                <font style="font-size: 22px;">
+                                                    deposit
+                                                </font>
+                                            </u>
+                                        </b>
+                                        = ( amount ) =&gt; {
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 27px;">
+                                    <span style="border-color: rgb(0, 0, 0); font-size: 20px;">
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        return( dispatch ) =&gt; {
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 27px;">
+                                    <span style="border-color: rgb(0, 0, 0); font-size: 20px;">
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        dispatch({
+                                        <br style="border-color: rgb(0, 0, 0);"/>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 27px;">
+                                    <span style="border-color: rgb(0, 0, 0); font-size: 20px;">
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        type : ' deposit',
+                                        <br style="border-color: rgb(0, 0, 0);"/>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 27px;">
+                                    <span style="border-color: rgb(0, 0, 0); font-size: 20px;">
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        payload : amount
+                                        <br style="border-color: rgb(0, 0, 0);"/>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 27px;">
+                                    <span style="border-color: rgb(0, 0, 0); font-size: 20px;">
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        })}}
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        export const
+                                        <b style="">
+                                            <u style="">
+                                                <font style="font-size: 22px;">
+                                                    withdraw
+                                                </font>
+                                            </u>
+                                        </b>
+                                        = ( amount ) =&gt; {
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 27px;">
+                                    <span style="border-color: rgb(0, 0, 0); font-size: 20px;">
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        return( dispatch ) =&gt; {
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 27px;">
+                                    <span style="border-color: rgb(0, 0, 0); font-size: 20px;">
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        dispatch({
+                                        <br style="border-color: rgb(0, 0, 0);"/>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 27px;">
+                                    <span style="border-color: rgb(0, 0, 0); font-size: 20px;">
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        type : ' withdraw',
+                                        <br style="border-color: rgb(0, 0, 0);"/>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 27px;">
+                                    <span style="border-color: rgb(0, 0, 0); font-size: 20px;">
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        payload : amount
+                                        <br style="border-color: rgb(0, 0, 0);"/>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 27px;">
+                                    <span style="border-color: rgb(0, 0, 0); font-size: 20px;">
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="border-color: rgb(0, 0, 0);"></span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        })}}
+                                    </span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="265" y="1231" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="20px" text-anchor="middle">
+                    export const deposit = ( amount ) =&gt; {...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" dir="ltr" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 868px; margin-left: 91px;">
+                        <div data-drawio-colors="color: #000000; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 27px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; border: 1px solid rgb(0, 0, 0); white-space: nowrap;">
+                                <span style="background-color: rgb(255, 255, 102);">
+                                    state/action-creators/
+                                    <b style="">
+                                        index.js
+                                    </b>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="91" y="876" fill="#000000" font-family="Helvetica" font-size="27px">
+                    state/action-creators/index....
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="254.5" cy="821" rx="25.5" ry="21" fill="#ffe6cc" stroke="#ff6666" stroke-width="2" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 49px; height: 1px; padding-top: 821px; margin-left: 230px;">
+                        <div data-drawio-colors="color: #000000; background-color: #FFB366; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 33px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 179, 102); border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                1
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="254" y="831" fill="#000000" font-family="Helvetica" font-size="33px" text-anchor="middle">
+                    1
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)" opacity="0.9">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" dir="ltr" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 644px; margin-left: 15px;">
+                        <div data-drawio-colors="color: #000000; background-color: #66FFFF; border-color: #FF0080; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; text-decoration: underline; background-color: rgb(102, 255, 255); border: 1px solid rgb(255, 0, 128); white-space: nowrap;">
+                                <h1 style="">
+                                    <span style="white-space: pre;">
+                                    </span>
+                                    src/
+                                </h1>
+                                <h2 style="">
+                                    <span style="white-space: pre;">
+                                        <span style="white-space: pre;">
+                                        </span>
+                                    </span>
+                                    state/
+                                </h2>
+                                <h3 style="">
+                                    <span style="white-space: pre;">
+                                    </span>
+                                    <span style="white-space: pre;">
+                                    </span>
+                                    <span style="white-space: pre;">
+                                    </span>
+                                    <span style="white-space: pre;">
+                                    </span>
+                                    action-creators/
+                                </h3>
+                                <span style="white-space: pre;">
+                                    <div style="">
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: nowrap; background-color: rgb(255, 255, 153);">
+                                            index.js
+                                        </span>
+                                    </div>
+                                </span>
+                                <h3 style="">
+                                    <span style="white-space: pre;">
+                                    </span>
+                                    <span style="white-space: pre;">
+                                    </span>
+                                    <span style="white-space: pre;">
+                                        <span style="white-space: pre;">
+                                        </span>
+                                    </span>
+                                    reducers/
+                                </h3>
+                                <span style="white-space: pre;">
+                                    <div style="">
+                                        <span style="white-space: nowrap; background-color: rgb(179, 255, 102);">
+                                            amountReducers.js
+                                        </span>
+                                    </div>
+                                    <div style="">
+                                        <span style="white-space: nowrap;">
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="background-color: rgb(255, 102, 102);">
+                                                index.js
+                                            </span>
+                                        </span>
+                                    </div>
+                                </span>
+                                <h2></h2>
+                                <h2 style="">
+                                    <div style="">
+                                        <span style="font-size: 27px;">
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="background-color: rgb(178, 102, 255);">
+                                                store.js
+                                            </span>
+                                        </span>
+                                    </div>
+                                    <div style="font-size: 27px;">
+                                        <span style="">
+                                            <span style="white-space: pre;">
+                                                <span style="white-space: pre;">
+                                                    <span style="white-space: pre;">
+                                                    </span>
+                                                </span>
+                                            </span>
+                                        </span>
+                                        <span style="background-color: rgb(255, 51, 255);">
+                                            index.js
+                                        </span>
+                                    </div>
+                                    <div style="font-size: 27px;">
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="background-color: rgb(255, 153, 51);">
+                                            index.js
+                                        </span>
+                                        <br/>
+                                    </div>
+                                    <div style="font-size: 27px;">
+                                        <span style="">
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="background-color: rgb(255, 51, 153);">
+                                                Shop.js
+                                            </span>
+                                            <br/>
+                                        </span>
+                                    </div>
+                                </h2>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="15" y="644" fill="#000000" font-family="Helvetica" font-size="18px" text-decoration="underline">
+                    src/...
+                </text>
+            </switch>
+        </g>
+        <path d="M 99.88 210.18 L 100 270.14 L 122.13 270.14" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 128.88 270.14 L 119.88 274.64 L 122.13 270.14 L 119.88 265.64 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 160 280 L 160 540.14 L 182.13 540.14" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 188.88 540.14 L 179.88 544.64 L 182.13 540.14 L 179.88 535.64 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 230 320 L 230 350.14 L 242.13 350.06" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 248.88 350.01 L 239.91 354.57 L 242.13 350.06 L 239.85 345.57 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 100 210 L 100 570.14 L 122.13 570.04" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 128.88 570.01 L 119.9 574.55 L 122.13 570.04 L 119.86 565.55 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 160.04 270 L 160 314.14 L 192.13 314.14" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 198.88 314.14 L 189.88 318.64 L 192.13 314.14 L 189.88 309.64 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 160 314 L 160 400.14 L 192.13 400.14" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 198.88 400.14 L 189.88 404.64 L 192.13 400.14 L 189.88 395.64 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 230 410 L 230 440.14 L 242.13 440.14" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 248.88 440.14 L 239.88 444.64 L 242.13 440.14 L 239.88 435.64 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 160 400 L 160 510.14 L 182.13 510.04" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 188.88 510.01 L 179.9 514.55 L 182.13 510.04 L 179.86 505.55 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 230 430 L 230 460.14 L 242.13 460.14" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 248.88 460.14 L 239.88 464.64 L 242.13 460.14 L 239.88 455.64 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 100 240 L 100 600.14 L 122.13 600.04" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 128.88 600.01 L 119.9 604.55 L 122.13 600.04 L 119.86 595.55 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1848.96" y="810" width="911.04" height="890" rx="133.5" ry="133.5" fill="#ffcce6" stroke="#000000" stroke-width="3" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 909px; height: 1px; padding-top: 1306px; margin-left: 1851px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); border-color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    <br/>
+                                </b>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <b>
+                                        <span style="">
+                                        </span>
+                                        <br/>
+                                    </b>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                            </span>
+                                            <span style="">
+                                            </span>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            import { useDispatch, useSelector } from 'react-redux'
+                                        </b>
+                                    </span>
+                                </p>
+                                <span style="color: rgb(0, 0, 0);">
+                                    <b>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        import { bindActionCreators } from 'redux'
+                                    </b>
+                                </span>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                            </span>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            import { actionCreators } from './state/index'
+                                            <br/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <br/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            const Shop = ( ) =&gt;{
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                                <span style="white-space: pre;">
+                                                </span>
+                                            </span>
+                                            const dispatch = useDispatch()
+                                            <br/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            const balance = useSelector( state =&gt; state.amount )
+                                            <br/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            const { withdraw, deposit } = bindActionCreators( actionCreators, dispatch )
+                                            <br/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            return(
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            &lt;div&gt;
+                                            <br/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style=""></span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            &lt;button onClick={()=&gt;{withdraw(100}}&gt; - &lt;/button&gt;
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                                <span style="white-space: pre;">
+                                                </span>
+                                            </span>
+                                            {balance}
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            &lt;button onClick={()=&gt;{deposit(100}}&gt; + &lt;/button&gt;
+                                        </b>
+                                        <b>
+                                            <br/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <span style="color: rgb(0, 0, 0);">
+                                    <b>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        &lt;/div&gt;
+                                    </b>
+                                </span>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            )
+                                            <br/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            }
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></p>
+                                <b>
+                                    <br/>
+                                </b>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <br/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 27px;">
+                                    <span style="border-color: rgb(0, 0, 0); font-size: 20px;">
+                                        <b>
+                                            <br style="border-color: rgb(0, 0, 0);"/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1851" y="1312" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="20px">
+                    ...
+                </text>
+            </switch>
+        </g>
+        <rect x="2012.63" y="835" width="160" height="40" rx="6" ry="6" fill="none" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" dir="ltr" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 855px; margin-left: 2013px;">
+                        <div data-drawio-colors="color: #000000; background-color: #FF66B3; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 27px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; background-color: rgb(255, 102, 179); border: 1px solid rgb(0, 0, 0); white-space: nowrap;">
+                                <span style="font-weight: normal;">
+                                    src/
+                                </span>
+                                Shop.js
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2013" y="863" fill="#000000" font-family="Helvetica" font-size="27px" font-weight="bold">
+                    src/Shop.js
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="2277" cy="835" rx="40" ry="40" fill="#ffe6cc" stroke="#ff6666" stroke-width="2" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 835px; margin-left: 2238px;">
+                        <div data-drawio-colors="color: #000000; background-color: #FFB366; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 33px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 179, 102); border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                7/8
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2277" y="845" fill="#000000" font-family="Helvetica" font-size="33px" text-anchor="middle">
+                    7/8
+                </text>
+            </switch>
+        </g>
+        <rect x="550" y="1580" width="560" height="320" rx="48" ry="48" fill="#ffcccc" stroke="#000000" stroke-width="3" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 558px; height: 1px; padding-top: 1790px; margin-left: 552px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); border-color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                <font color="#000000">
+                                    <b>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        import {combineReducers} from "redux"
+                                        <br/>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        import amountReducer from "./amountReducer"
+                                        <br/>
+                                        <br/>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        const reducers = combineReducers({
+                                        <br/>
+                                        <span style="white-space: pre;">
+                                            <span style="white-space: pre;">
+                                            </span>
+                                        </span>
+                                        amount : amountReducer
+                                        <br/>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        })
+                                        <br/>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        export default reducers
+                                    </b>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="552" y="1796" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="20px">
+                    import {combineReducers} from "redux"...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" dir="ltr" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 1650px; margin-left: 633px;">
+                        <div data-drawio-colors="color: #000000; background-color: #FF6666; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 27px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; background-color: rgb(255, 102, 102); border: 1px solid rgb(0, 0, 0); white-space: nowrap;">
+                                state/reducers/index.js
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="633" y="1658" fill="#000000" font-family="Helvetica" font-size="27px" font-weight="bold">
+                    state/reducers/index.js
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="1046" cy="1610" rx="21" ry="26" fill="#ffe6cc" stroke="#ff6666" stroke-width="2" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 40px; height: 1px; padding-top: 1610px; margin-left: 1026px;">
+                        <div data-drawio-colors="color: #000000; background-color: #FFB366; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 33px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 179, 102); border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                3
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1046" y="1620" fill="#000000" font-family="Helvetica" font-size="33px" text-anchor="middle">
+                    3
+                </text>
+            </switch>
+        </g>
+        <rect x="1269.58" y="1060" width="515.49" height="520" rx="77.32" ry="77.32" fill="#ffe6cc" stroke="#000000" stroke-width="3" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 513px; height: 1px; padding-top: 1370px; margin-left: 1272px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); border-color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    <br/>
+                                </b>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <b>
+                                        <span style="">
+                                        </span>
+                                        <br/>
+                                    </b>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                            </span>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            import { Provider } from 'react-redux'
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            import { store } from './state/store'
+                                            <br/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <br/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            ReactDOM.render(
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                                <span style="">
+                                                </span>
+                                                <span style="white-space: pre;">
+                                                    <span style="white-space: pre;">
+                                                    </span>
+                                                </span>
+                                                &lt;React.StrictMode&gt;
+                                            </span>
+                                        </b>
+                                    </span>
+                                    <b style="background-color: initial;">
+                                    </b>
+                                </p>
+                                <b style="color: rgb(0, 0, 0);">
+                                    <span style="">
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        &lt;Provider store={store}&gt;
+                                        <br/>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        &lt;App/&gt;
+                                        <br/>
+                                    </span>
+                                </b>
+                                <b style="color: rgb(0, 0, 0);">
+                                    <span style="white-space: pre;">
+                                    </span>
+                                    <span style="white-space: pre;">
+                                    </span>
+                                    <span style="white-space: pre;">
+                                    </span>
+                                    &lt;/Provider&gt;
+                                </b>
+                                <b style="color: rgb(0, 0, 0);">
+                                    <span style="">
+                                        <br/>
+                                        <br/>
+                                    </span>
+                                </b>
+                                <b style="color: rgb(0, 0, 0);">
+                                    <span style="">
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        <span style="white-space: pre;">
+                                        </span>
+                                        &lt;/React.StrictMode&gt;
+                                    </span>
+                                </b>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            )
+                                            <br/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 27px;">
+                                    <span style="border-color: rgb(0, 0, 0); font-size: 20px;">
+                                        <b>
+                                            <br style="border-color: rgb(0, 0, 0);"/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1272" y="1376" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="20px">
+                    ...
+                </text>
+            </switch>
+        </g>
+        <rect x="1425.07" y="1080" width="160" height="40" rx="6" ry="6" fill="none" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" dir="ltr" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 1100px; margin-left: 1425px;">
+                        <div data-drawio-colors="color: #000000; background-color: #FFB366; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 27px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; background-color: rgb(255, 179, 102); border: 1px solid rgb(0, 0, 0); white-space: nowrap;">
+                                <span style="font-weight: normal;">
+                                    src/
+                                </span>
+                                index.js
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1425" y="1108" fill="#000000" font-family="Helvetica" font-size="27px" font-weight="bold">
+                    src/index.js
+                </text>
+            </switch>
+        </g>
+        <rect x="1150" y="905" width="670.14" height="135" rx="20.25" ry="20.25" fill="#ffccff" stroke="#000000" stroke-width="3" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 668px; height: 1px; padding-top: 1023px; margin-left: 1152px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); border-color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    <br/>
+                                </b>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <b>
+                                        <span style="">
+                                        </span>
+                                        <br/>
+                                    </b>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                            </span>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                            export * as actionCreators from "action-creaters/index'
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <span style="border-color: rgb(0, 0, 0);">
+                                        <b>
+                                            <span style="">
+                                            </span>
+                                            <span style="white-space: pre;">
+                                            </span>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 27px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 27px;">
+                                    <span style="border-color: rgb(0, 0, 0); font-size: 20px;">
+                                        <b>
+                                            <br style="border-color: rgb(0, 0, 0);"/>
+                                        </b>
+                                    </span>
+                                </p>
+                                <p style="border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1152" y="1029" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="20px">
+                    ...
+                </text>
+            </switch>
+        </g>
+        <rect x="1352.14" y="910.19" width="190" height="40" rx="6" ry="6" fill="none" stroke="rgb(0, 0, 0)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" dir="ltr" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 930px; margin-left: 1352px;">
+                        <div data-drawio-colors="color: #000000; background-color: #FF66FF; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 27px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; background-color: rgb(255, 102, 255); border: 1px solid rgb(0, 0, 0); white-space: nowrap;">
+                                <span style="font-weight: normal;">
+                                    state/
+                                </span>
+                                index.js
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1352" y="938" fill="#000000" font-family="Helvetica" font-size="27px" font-weight="bold">
+                    state/index.js
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="1580" cy="918" rx="25" ry="25" fill="#ffe6cc" stroke="#ff6666" stroke-width="2" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 48px; height: 1px; padding-top: 918px; margin-left: 1556px;">
+                        <div data-drawio-colors="color: #000000; background-color: #FFB366; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 33px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 179, 102); border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                5
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1580" y="928" fill="#000000" font-family="Helvetica" font-size="33px" text-anchor="middle">
+                    5
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="1655" cy="1077" rx="22" ry="28" fill="#ffe6cc" stroke="#ff6666" stroke-width="2" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 42px; height: 1px; padding-top: 1077px; margin-left: 1634px;">
+                        <div data-drawio-colors="color: #000000; background-color: #FFB366; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 33px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 179, 102); border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                6
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1655" y="1087" fill="#000000" font-family="Helvetica" font-size="33px" text-anchor="middle">
+                    6
+                </text>
+            </switch>
+        </g>
+        <rect x="838.52" y="549.2" width="159.34" height="76.8" rx="11.52" ry="11.52" fill="#ffe6cc" stroke="#ff6666" stroke-width="2" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 157px; height: 1px; padding-top: 588px; margin-left: 840px;">
+                        <div data-drawio-colors="color: #000000; background-color: #FFB366; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 22px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 179, 102); border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                Action Causing Event
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="918" y="594" fill="#000000" font-family="Helvetica" font-size="22px" text-anchor="middle">
+                    Action Causing...
+                </text>
+            </switch>
+        </g>
+        <rect x="652.62" y="293.2" width="159.34" height="76.8" rx="11.52" ry="11.52" fill="#ffe6cc" stroke="#ff6666" stroke-width="2" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 157px; height: 1px; padding-top: 332px; margin-left: 654px;">
+                        <div data-drawio-colors="color: #000000; background-color: #FFB366; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 22px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 179, 102); border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                ACTION
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="732" y="338" fill="#000000" font-family="Helvetica" font-size="22px" text-anchor="middle">
+                    ACTION
+                </text>
+            </switch>
+        </g>
+        <path d="M 838.52 565.01 L 702.08 526.33 Q 692.46 523.6 694.97 513.92 L 730.7 376.16" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 732.01 371.08 L 733.65 378.74 L 730.7 376.16 L 726.87 376.98 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="984.59" y="50" width="159.34" height="76.8" rx="11.52" ry="11.52" fill="#ffe6cc" stroke="#ff6666" stroke-width="2" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 157px; height: 1px; padding-top: 88px; margin-left: 986px;">
+                        <div data-drawio-colors="color: #000000; background-color: #FFB366; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 22px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 179, 102); border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                REDUCER
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1064" y="95" fill="#000000" font-family="Helvetica" font-size="22px" text-anchor="middle">
+                    REDUCER
+                </text>
+            </switch>
+        </g>
+        <path d="M 744.74 293.2 L 795.6 136.31 Q 798.69 126.8 808.48 124.78 L 978.35 89.69" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 983.5 88.63 L 977.35 93.47 L 978.35 89.69 L 975.93 86.61 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="928.52" y="250" width="271.48" height="112" rx="16.8" ry="16.8" fill="#ffe6cc" stroke="#ff6666" stroke-width="2" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 269px; height: 1px; padding-top: 306px; margin-left: 930px;">
+                        <div data-drawio-colors="color: #000000; background-color: #FFB366; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 22px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 179, 102); border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                STORE
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1064" y="313" fill="#000000" font-family="Helvetica" font-size="22px" text-anchor="middle">
+                    STORE
+                </text>
+            </switch>
+        </g>
+        <path d="M 1064.26 126.8 L 1064.26 243.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1064.26 248.88 L 1060.76 241.88 L 1064.26 243.63 L 1067.76 241.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1130.66" y="549.2" width="159.34" height="76.8" rx="11.52" ry="11.52" fill="#ffe6cc" stroke="#ff6666" stroke-width="2" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 157px; height: 1px; padding-top: 588px; margin-left: 1132px;">
+                        <div data-drawio-colors="color: #000000; background-color: #FFB366; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 22px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 179, 102); border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                VIEW
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1210" y="594" fill="#000000" font-family="Helvetica" font-size="22px" text-anchor="middle">
+                    VIEW
+                </text>
+            </switch>
+        </g>
+        <path d="M 1064.26 362 L 1206.41 544.18" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1209.64 548.32 L 1202.57 544.95 L 1206.41 544.18 L 1208.09 540.65 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 518px; margin-left: 550px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 22px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                via Dispatch
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="550" y="525" fill="#000000" font-family="Helvetica" font-size="22px" text-anchor="middle">
+                    via Dispatch
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 659px; margin-left: 902px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 22px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                onClick
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="902" y="665" fill="#000000" font-family="Helvetica" font-size="22px" text-anchor="middle">
+                    onClick
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 659px; margin-left: 1194px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 22px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                balance
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1194" y="665" fill="#000000" font-family="Helvetica" font-size="22px" text-anchor="middle">
+                    balance
+                </text>
+            </switch>
+        </g>
+        <rect x="1400" y="0" width="650" height="40" fill="#cce5ff" stroke="#36393d" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 20px; margin-left: 1725px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 22px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                ACTION : A plain object that describes intenion to cause change
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1725" y="27" fill="#000000" font-family="Helvetica" font-size="22px" text-anchor="middle">
+                    ACTION : A plain object that describes intenion to cause ch...
+                </text>
+            </switch>
+        </g>
+        <rect x="1400" y="60" width="730" height="120" fill="#cce5ff" stroke="#36393d" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 120px; margin-left: 1402px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 22px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                REDUCERS : - a function that decides changes to state
+                                <br/>
+                                <span style="white-space: pre;">
+                                </span>
+                                <span style="white-space: pre;">
+                                </span>
+                                <span style="white-space: pre;">
+                                </span>
+                                - returns new state
+                                <br/>
+                                <span style="white-space: pre;">
+                                </span>
+                                <span style="white-space: pre;">
+                                </span>
+                                <span style="white-space: pre;">
+                                </span>
+                                - uses action object &amp; previous state to decide the change
+                                <br/>
+                                <span style="white-space: pre;">
+                                </span>
+                                <span style="white-space: pre;">
+                                </span>
+                                <span style="white-space: pre;">
+                                </span>
+                                - can be multiple reducers for different tasks
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1402" y="127" fill="#000000" font-family="Helvetica" font-size="22px">
+                    REDUCERS : - a function that decides changes to state...
+                </text>
+            </switch>
+        </g>
+        <rect x="1400" y="230" width="410" height="40" fill="#cdeb8b" stroke="#36393d" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 250px; margin-left: 1605px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 22px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; font-weight: bold; white-space: nowrap;">
+                                npx i  redux react- redux redux-thunk
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1605" y="257" fill="#000000" font-family="Helvetica" font-size="22px" text-anchor="middle" font-weight="bold">
+                    npx i  redux react- redux redux-thunk
+                </text>
+            </switch>
+        </g>
+        <rect x="1390" y="320" width="1580" height="440" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 540px; margin-left: 2180px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 33px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                <ol style="font-size: 33px;">
+                                    <li style="text-align: left; font-size: 33px;">
+                                        Create diff
+                                        <b style="font-size: 33px;">
+                                            actions
+                                        </b>
+                                        in single file
+                                    </li>
+                                    <li style="text-align: left; font-size: 33px;">
+                                        Create diff
+                                        <b style="font-size: 33px;">
+                                            Reducers
+                                        </b>
+                                        diff files
+                                    </li>
+                                    <li style="text-align: left; font-size: 33px;">
+                                        <b style="font-size: 33px;">
+                                            Combine
+                                        </b>
+                                        diff
+                                        <b style="font-size: 33px;">
+                                            Reducers
+                                        </b>
+                                        in single index file
+                                    </li>
+                                    <li style="text-align: left; font-size: 33px;">
+                                        Create
+                                        <b style="font-size: 33px;">
+                                            store.js
+                                        </b>
+                                        in state folder
+                                    </li>
+                                    <li style="text-align: left; font-size: 33px;">
+                                        Export
+                                        <b style="font-size: 33px;">
+                                            action-creators
+                                        </b>
+                                        from
+                                        <b style="font-size: 33px;">
+                                            state/index.js
+                                        </b>
+                                    </li>
+                                    <li style="text-align: left; font-size: 33px;">
+                                        <b style="font-size: 33px;">
+                                            Wrap
+                                        </b>
+                                        &lt;App/&gt; in index.js with
+                                        <b style="font-size: 33px;">
+                                            &lt;Provider store={store}&gt;
+                                        </b>
+                                    </li>
+                                    <li style="text-align: left; font-size: 33px;">
+                                        Use
+                                        <b style="font-size: 33px;">
+                                            useSelector
+                                        </b>
+                                        to pickup state in view component
+                                    </li>
+                                    <li style="text-align: left; font-size: 33px;">
+                                        Use
+                                        <b style="font-size: 33px;">
+                                            useDispatch &amp;/
+                                        </b>
+                                        or
+                                        <b style="font-size: 33px;">
+                                            bindActionCreators
+                                        </b>
+                                        to add to components like onClick that will initiate changes
+                                    </li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2180" y="550" fill="#000000" font-family="Helvetica" font-size="33px" text-anchor="middle">
+                    Create diff actions in single fileCreate diff Reducers diff filesCombine diff Reducers in single...
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="803.5" cy="814.5" rx="24.5" ry="25.5" fill="#ffe6cc" stroke="#ff6666" stroke-width="2" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 47px; height: 1px; padding-top: 815px; margin-left: 780px;">
+                        <div data-drawio-colors="color: #000000; background-color: #FFB366; border-color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 33px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 179, 102); border: 1px solid rgb(0, 0, 0); white-space: normal; overflow-wrap: normal;">
+                                2
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="804" y="824" fill="#000000" font-family="Helvetica" font-size="33px" text-anchor="middle">
+                    2
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
